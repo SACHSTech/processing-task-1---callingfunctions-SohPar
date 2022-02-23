@@ -49,8 +49,7 @@ public class Sketch extends PApplet {
   fill(250, 255, 51);
   ellipse(0, 0, 150, 150);
 
-  //Clouds
-  fill(255, 252, 252);
+
   
 
   }
